@@ -5,7 +5,7 @@
 ### 🚀 AI & Trading Sistemleri | SEO Araçları Geliştirici
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yasar-afk)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasar@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasar.tuzen.eng@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yasar-afk)
 
 </div>
@@ -105,7 +105,7 @@ Yazılım geliştirme ve yapay zeka alanlarında çalışan bir mühendisim. **T
 |----------|------|
 | 💼 LinkedIn | [yasar-afk](https://linkedin.com/in/yasar-afk) |
 | 🐙 GitHub | [yasar-afk](https://github.com/yasar-afk) |
-| 📧 Email | yasar@example.com |
+| 📧 Email | yasar.tuzen.eng@gmail.com |
 
 ---
 
