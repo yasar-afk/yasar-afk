@@ -1,8 +1,8 @@
 <div align="center">
 
-# Merhaba, Ben Yasar
+# Merhaba, Ben Yaşar 👋
 
-### AI & Trading Sistemleri | SEO Araçları Geliştirici
+### 🚀 AI & Trading Sistemleri | SEO Araçları Geliştirici
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yasar-afk)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasar@example.com)
@@ -12,13 +12,24 @@
 
 ---
 
-## Ben Kimim?
+## 🎯 Hakkımda
 
-Yazılım geliştirme ve yapay zeka alanlarında çalışan bir mühendisim. Trading sistemleri, SEO araçları ve otomasyon projeleri üzerinde çalışıyorum.
+Yazılım geliştirme ve yapay zeka alanlarında çalışan bir mühendisim. **Trading sistemleri**, **SEO araçları** ve **otomasyon projeleri** geliştiriyorum. AI destekli çözümler üreterek iş süreçlerini otomatize etmeyi seviyorum.
 
 ---
 
-## Teknoloji Yığını
+## 💡 Ne Yapıyorum?
+
+```
+🤖 AI Destekli Trading Botları    → Otonom kripto alım-satım
+🔍 SEO Analiz Araçları            → Web sitesi optimizasyonu
+🎤 Sesli Asistan Sistemleri       → Yerelde çalışan AI asistanları
+📊 Veri Analizi & Raporlama       → İş zekası çözümleri
+```
+
+---
+
+## 🛠️ Teknoloji Yığını
 
 ### Programlama Dilleri
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -29,6 +40,7 @@ Yazılım geliştirme ve yapay zeka alanlarında çalışan bir mühendisim. Tra
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 
 ### Araçlar & Platformlar
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -38,57 +50,69 @@ Yazılım geliştirme ve yapay zeka alanlarında çalışan bir mühendisim. Tra
 
 ---
 
-## Aktif Projeler
+## 📂 Aktif Projeler
 
-### SEO Toolkit
-> Kapsamlı SEO analiz aracı - Web sitelerini analiz edin, rakiplerinizin önüne geçin
+### 🤖 Trading Botları
 
-- Web crawler & indeksleme
-- SEO denetimi (meta tags, headings, keywords)
-- Rakip analizi
-- PageSpeed & Core Web Vitals
-- Schema markup oluşturucu
+| Proje | Açıklama | Teknoloji |
+|-------|----------|-----------|
+| [Antigraviti Trading Bot](https://github.com/yasar-afk/antigraviti-trading-bot) | V5 + V7 otonom trading | Python, MiMo AI, Binance |
+| [MIMO Borsa Araştırma](https://github.com/yasar-afk/mimo-borsa-arastirma) | AI destekli borsa analizi | Python, Scikit-learn, MiMo |
+| [Borsa Analiz Bot](https://github.com/yasar-afk/borsa-analiz-bot) | V7 Price Action + SMC | Python, HMM, XGBoost |
 
-[Projeyi İncele →](https://github.com/yasar-afk/seo-kutuphane)
+### 🔍 SEO Araçları
 
-### Manga Editor Pro
-> AI destekli manga çeviri ve düzenleme aracı
+| Proje | Açıklama | Teknoloji |
+|-------|----------|-----------|
+| [Google SEO Rank](https://github.com/yasar-afk/google-seo-rank) | Sıralama takibi & rakip analizi | Python, Google API |
+| [SEO Kütüphane](https://github.com/yasar-afk/seo-kutuphane) | Kapsamlı SEO analiz aracı | Python, Flask, BeautifulSoup |
 
-- Gemini & OpenRouter API entegrasyonu
-- Sayfa sayfa çeviri
-- Kalite onarımı
-- Docker ile deploy
+### 🎤 AI Asistanları
 
-[Projeyi İncele →](https://github.com/yasar-afk/manga-editor-pro)
+| Proje | Açıklama | Teknoloji |
+|-------|----------|-----------|
+| [AI Sesli Asistan](https://github.com/yasar-afk/ai-sesli-asistan) | Yerelde çalışan sesli asistan | Python, Whisper, Coqui TTS |
+| [AI Asistan](https://github.com/yasar-afk/ai-assistan) | Gemini destekli asistan | Python, LangChain, Gemini |
 
 ---
 
-## GitHub İstatistikleri
+## 📊 GitHub İstatistikleri
 
 <div align="center">
 
-![Yasar's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasar-afk&show_icons=true&theme=radical&hide_border=true)
+![Yasar's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasar-afk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasar-afk&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasar-afk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
 
 </div>
 
 ---
 
-## İletişim
+## 🏆 Başarılar & Hedefler
+
+```
+📈 Trading Botları: %+63.2 kâr (Paper Trading)
+🔍 SEO Araçları: 7+ proje tamamlandı
+🤖 AI Entegrasyonu: MiMo v2.5, Gemini, Whisper
+📊 GitHub: 7+ açık kaynak proje
+```
+
+---
+
+## 📫 İletişim
 
 | Platform | Link |
 |----------|------|
-| LinkedIn | [yasar-afk](https://linkedin.com/in/yasar-afk) |
-| GitHub | [yasar-afk](https://github.com/yasar-afk) |
-| Email | yasar@example.com |
+| 💼 LinkedIn | [yasar-afk](https://linkedin.com/in/yasar-afk) |
+| 🐙 GitHub | [yasar-afk](https://github.com/yasar-afk) |
+| 📧 Email | yasar@example.com |
 
 ---
 
 <div align="center">
 
-**Kod, problemleri çözmek için bir araçtır.**
+**💻 Kod, problemleri çözmek için bir araçtır.**
 
-![Profile Views](https://komarev.com/ghpvc/?username=yasar-afk&color=blueviolet&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=yasar-afk&color=blueviolet&style=flat&label=Profile+Views)
 
 </div>
