@@ -74,6 +74,13 @@ Yazılım geliştirme ve yapay zeka alanlarında çalışan bir mühendisim. **T
 | [AI Sesli Asistan](https://github.com/yasar-afk/ai-sesli-asistan) | Yerelde çalışan sesli asistan | Python, Whisper, Coqui TTS |
 | [AI Asistan](https://github.com/yasar-afk/ai-assistan) | Gemini destekli asistan | Python, LangChain, Gemini |
 
+### 📱 Araçlar & Kütüphaneler
+
+| Proje | Açıklama | Teknoloji |
+|-------|----------|-----------|
+| [Telegram Notify](https://github.com/yasar-afk/telegram-notify) | Telegram bildirim kütüphanesi | Python, REST API |
+| [Telegram Bot Setup](https://github.com/yasar-afk/telegram-bot-setup) | Bot kurulum rehberi | Python, BAT Script |
+
 ---
 
 ## 📊 GitHub İstatistikleri
