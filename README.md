@@ -51,6 +51,16 @@ Yazılım geliştirme ve yapay zeka alanlarında çalışan bir mühendisim. Tra
 
 [Projeyi İncele →](https://github.com/yasar-afk/seo-kutuphane)
 
+### Manga Editor Pro
+> AI destekli manga çeviri ve düzenleme aracı
+
+- Gemini & OpenRouter API entegrasyonu
+- Sayfa sayfa çeviri
+- Kalite onarımı
+- Docker ile deploy
+
+[Projeyi İncele →](https://github.com/yasar-afk/manga-editor-pro)
+
 ---
 
 ## GitHub İstatistikleri
