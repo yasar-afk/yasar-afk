@@ -56,7 +56,7 @@ Yazılım geliştirme ve yapay zeka alanlarında çalışan bir mühendisim. **T
 
 | Proje | Açıklama | Teknoloji |
 |-------|----------|-----------|
-| [Antigraviti Trading Bot](https://github.com/yasar-afk/antigraviti-trading-bot) | V5 + V7 otonom trading | Python, MiMo AI, Binance |
+| [Trading Bot](https://github.com/yasar-afk/trading-bot) | V5 + V7 otonom trading | Python, MiMo AI, Binance |
 | [MIMO Borsa Araştırma](https://github.com/yasar-afk/mimo-borsa-arastirma) | AI destekli borsa analizi | Python, Scikit-learn, MiMo |
 | [Borsa Analiz Bot](https://github.com/yasar-afk/borsa-analiz-bot) | V7 Price Action + SMC | Python, HMM, XGBoost |
 
