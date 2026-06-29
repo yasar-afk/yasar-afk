@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Merhaba, Ben Yasar
+# Merhaba, Ben Yasar
 
-### 🚀 Yazılım Geliştirici | AI & Trading Sistemleri
+### AI & Trading Sistemleri | SEO Araçları Geliştirici
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yasar-afk)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasar@example.com)
@@ -12,15 +12,13 @@
 
 ---
 
-## 🧑‍💻 Hakkımda
+## Ben Kimim?
 
-Yapay zeka ve otomatik işlem sistemleri alanında çalışan bir yazılım geliştiriciyim. 
-Kripto para trading botları, API entegrasyonları ve veri analizi projeleri geliştiriyorum.
-Sürekli öğrenmeye ve yeni teknolojiler keşfetmeye odaklanıyorum.
+Yazılım geliştirme ve yapay zeka alanlarında çalışan bir mühendisim. Trading sistemleri, SEO araçları ve otomasyon projeleri üzerinde çalışıyorum.
 
 ---
 
-## 🛠️ Teknoloji Yığını
+## Teknoloji Yığını
 
 ### Programlama Dilleri
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -32,10 +30,6 @@ Sürekli öğrenmeye ve yeni teknolojiler keşfetmeye odaklanıyorum.
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
-### Trading & Fintech
-![Binance](https://img.shields.io/badge/Binance-F0B90B?style=flat&logo=binance&logoColor=black)
-![TradingView](https://img.shields.io/badge/TradingView-131722?style=flat&logo=tradingview&logoColor=white)
-
 ### Araçlar & Platformlar
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -44,31 +38,22 @@ Sürekli öğrenmeye ve yeni teknolojiler keşfetmeye odaklanıyorum.
 
 ---
 
-## 📌 Öne Çıkan Projeler
+## Aktif Projeler
 
-### 🤖 ANTIGRAVITI — AI Destekli Kripto Trading Botu
-> Binance Futures üzerinde çalışan, Xiaomi MiMo v2.5 vision AI ile grafik tabanlı sinyal doğrulama yapan otomatik trading sistemi.
+### SEO Toolkit
+> Kapsamlı SEO analiz aracı - Web sitelerini analiz edin, rakiplerinizin önüne geçin
 
-**Özellikler:**
-- 📊 Price Action stratejisi (SMC Liquidity Sweep)
-- 🧠 MiMo v2.5 ile grafik analizi ve sinyal doğrulama
-- 📈 Dinamik Risk/Ödül (ADX bazlı)
-- 🛡️ Çoklu katmanlı risk yönetimi
-- 📱 Telegram bildirimleri ve komutları
-- 🔄 Adaptif öğrenme ve otomatik optimizasyon
+- Web crawler & indeksleme
+- SEO denetimi (meta tags, headings, keywords)
+- Rakip analizi
+- PageSpeed & Core Web Vitals
+- Schema markup oluşturucu
 
-**Teknolojiler:** Python, Binance API (ccxt), MiMo v2.5, Matplotlib, Selenium, Telegram Bot
+[Projeyi İncele →](https://github.com/yasar-afk/seo-kutuphane)
 
 ---
 
-### 📚 Manga Platformu
-> Manga çeviri ve paylaşımdan oluşan SaaS platformu.
-
-**Teknolojiler:** JavaScript, Web Development
-
----
-
-## 📊 GitHub İstatistikleri
+## GitHub İstatistikleri
 
 <div align="center">
 
@@ -80,34 +65,20 @@ Sürekli öğrenmeye ve yeni teknolojiler keşfetmeye odaklanıyorum.
 
 ---
 
-## 🎯 Uzmanlık Alanları
+## İletişim
 
-| Alan | Seviye |
-|------|--------|
-| Python Geliştirme | ⭐⭐⭐⭐⭐ |
-| AI/ML Entegrasyonu | ⭐⭐⭐⭐ |
-| Trading Sistemleri | ⭐⭐⭐⭐ |
-| API Geliştirme | ⭐⭐⭐⭐ |
-| Veri Analizi | ⭐⭐⭐⭐ |
-| Docker & DevOps | ⭐⭐⭐ |
-
----
-
-## 📫 İletişim
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yasar-afk)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasar@example.com)
-
-</div>
+| Platform | Link |
+|----------|------|
+| LinkedIn | [yasar-afk](https://linkedin.com/in/yasar-afk) |
+| GitHub | [yasar-afk](https://github.com/yasar-afk) |
+| Email | yasar@example.com |
 
 ---
 
 <div align="center">
 
-*"Kod, problemi çözen araçtır. Asıl-marifet doğru problemi seçmektir."*
+**Kod, problemleri çözmek için bir araçtır.**
 
-![Visitors](https://komarev.com/ghpvc/?username=yasar-afk&color=blueviolet&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=yasar-afk&color=blueviolet&style=flat)
 
 </div>
