@@ -90,18 +90,11 @@ class YasarTuzen:
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
 ![GitHub Stats](https://github-readme-stats-kappa.vercel.app/api?username=yasar-afk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
 ![Top Languages](https://github-readme-stats-kappa.vercel.app/api/top-langs/?username=yasar-afk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css)
 
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=yasar-afk&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
